@@ -150,11 +150,11 @@ value = 307;
 },
 {
 name = hheaAscender;
-value = 845;
+value = 982;
 },
 {
 name = hheaDescender;
-value = -307;
+value = -304;
 },
 {
 name = strikeoutPosition;
@@ -25593,7 +25593,7 @@ rightMetricsKey = three;
 },
 {
 glyphname = four.lf;
-lastChange = "2021-08-23 14:58:16 +0000";
+lastChange = "2021-08-23 16:24:09 +0000";
 layers = (
 {
 background = {
@@ -25609,7 +25609,7 @@ name = four;
 }
 );
 layerId = "5B1D346E-B0E2-499B-AAFE-AE2E263C1006";
-width = 596;
+width = 595;
 }
 );
 leftKerningGroup = "4";
