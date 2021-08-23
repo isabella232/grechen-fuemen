@@ -10,7 +10,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/Euro/cedi ¢/colonsign ¤$/dong/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥",
 "/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl"
 );
-copyright = "Copyright 2003-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)";
+copyright = "Copyright 2003-2021 The Grechen Fuemen Project Authors (https://github.com/googlefonts/grechen-fuemen)";
 customParameters = (
 {
 name = licenseURL;
