@@ -7,7 +7,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/space",
 "!¡nn!?¿",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH/Placeholder HO/Placeholder OOHH/Placeholder H\0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012/Euro/cedi ¢/colonsign ¤$/dong/florin/franc/guarani K/kip/lira 4/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/nbspace \01201231457823565932\012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012\012/Euro 8765\012/cedi 8765\012¢8765\012/colonsign 8765\012¤8765\012$8765\012/dong 8765\012/florin 8765\0128765\012/franc 8765\012/guarani 8765\012/kip 8765\012/lira 8765\012/liraTurkish 8765\012/manat 8765\012/naira 8765\012/peseta 8765\012/peso 8765\012/ruble 8765\012/rupeeIndian 8765\012£8765\012/won 8765\012¥8765",
-"/Euro/cedi ¢/colonsign ¤$/dong/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥"
+"/Euro/cedi ¢/colonsign ¤$/dong/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥",
+"/f_f/space/f_f_i/space/f_f_l/space/fi/space/fl \012ff/space ffi/space ffl/space fi/space fl"
 );
 copyright = "Copyright 2003-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)";
 customParameters = (
@@ -23053,9 +23054,15 @@ unicode = 017C;
 },
 {
 glyphname = f_f;
-lastChange = "2021-08-20 22:53:20 +0000";
+lastChange = "2021-08-23 17:02:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{311, 0}";
+}
+);
 background = {
 components = (
 {
@@ -23085,9 +23092,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-08-20 22:53:20 +0000";
+lastChange = "2021-08-23 17:02:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{290.667, 0}";
+},
+{
+name = caret_2;
+position = "{581.333, 0}";
+}
+);
 background = {
 components = (
 {
@@ -23125,9 +23142,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-08-20 22:53:20 +0000";
+lastChange = "2021-08-23 17:02:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{296, 0}";
+},
+{
+name = caret_2;
+position = "{592, 0}";
+}
+);
 background = {
 components = (
 {
@@ -23165,9 +23192,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2021-08-20 22:53:20 +0000";
+lastChange = "2021-08-23 17:02:26 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{280.5, 0}";
+}
+);
 background = {
 components = (
 {
@@ -23198,9 +23231,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2021-08-20 22:53:20 +0000";
+lastChange = "2021-08-23 17:02:28 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.5, 0}";
+}
+);
 background = {
 components = (
 {
