@@ -1,7 +1,7 @@
 
 # Grechen Fuemen
 
-GrechenFeumen is a playful font with an unorthodox use of thick and thin weights. Don't take this font too seriously because there's not a serious stroke in the font.
+Grechen Fuemen is a playful font with an unorthodox use of thick and thin weights. Don't take this font too seriously because there's not a serious stroke in the font.
 
 ![Sample Image](Documentation/GrechenFuemen.png)
 
